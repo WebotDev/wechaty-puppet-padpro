@@ -92,7 +92,7 @@
     "qr-image": "^3.2.0",
     "qrcode": "^1.4.0",
     "request": "^2.87.0",
-    "request-promise": "^4.2.2",
+    "request-promise": "^4.2.5",
     "rx-queue": "^0.8.1",
     "rxjs": "^6.2.1",
     "socks5-client": "^1.2.6",
